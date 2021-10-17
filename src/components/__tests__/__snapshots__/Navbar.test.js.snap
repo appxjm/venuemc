@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<nav
+  className="bg-transparent h-30 w-auto p-6 flex align-middle gap-6 items-center"
+>
+  <a
+    className="mr-auto font-black text-3xl"
+    href="/"
+    onClick={[Function]}
+  >
+    VMC
+  </a>
+  <a
+    href="/signup"
+    onClick={[Function]}
+  >
+    Get Started
+  </a>
+  <a
+    href="/login"
+    onClick={[Function]}
+  >
+    Account
+  </a>
+</nav>
+`;
